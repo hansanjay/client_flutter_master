@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686649777607",
+    "project_id": "dairy-delivery-b81e4",
+    "storage_bucket": "dairy-delivery-b81e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686649777607:android:537e0f6dc67c71cf034de2",
+        "android_client_info": {
+          "package_name": "com.tsd.client_flutter_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACzNV8RpUuAc-8OhEXqH0qJ9YSZzhg-yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
